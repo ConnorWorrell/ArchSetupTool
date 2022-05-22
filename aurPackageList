@@ -1,3 +1,4 @@
+brave-bin
 anki
 atkinson-hyperlegible-fonts
 calculix
@@ -46,4 +47,5 @@ mkinitcpio-firmware
 proton-ge-custom-bin
 protonup-git
 system-monitoring-center
-
+lib32-pipewire-jack
+lib32-gst-libav

@@ -1,4 +1,3 @@
-7-zip
 acpi
 arandr
 asunder
@@ -19,7 +18,6 @@ dash
 dunst
 efibootmgr
 emacs
-epson-inkjet-printer-escpr2
 fcitx
 fcitx-configtool
 fcitx-mozc
@@ -36,7 +34,6 @@ gimp
 gnuplot
 gst-libav
 gstreamer-docs
-gstreamer-meta
 gtop
 gvim
 hexchat
@@ -63,7 +60,6 @@ man-db
 man-pages
 mediainfo
 midori
-mkinitcpio-firmware
 mpv
 mupdf
 neofetch
@@ -124,4 +120,9 @@ wireplumber-docs
 xbindkeys
 xclip
 xorg-server
-
+stow
+ecryptfs-utils
+xorg-xinit
+gst-libav
+gst-vaapi
+qpwgraph
